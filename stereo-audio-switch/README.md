@@ -1,7 +1,13 @@
 # stereo audio selector switch
-* to switch a headphone jack between two audio output sources
+
+[DIYAudioElectronicsMaker on youtube](https://www.youtube.com/watch?v=WuBwabpJ2Ro&t=5s)
+
+build a device to switch a headphone jack between two audio output sources
 
 ## Objectives
+* select components using [octopart](https://octopart.com)
+  * dpdt toggle switch
+  * 3.5mm stereo jack female
 * create a schematic using eagle cad
 * transfer the schematic to a printed circuit board design 
 * create an enclosure using fusion 360
@@ -21,4 +27,4 @@
 * Switch datasheet
 
 ### Further learning 
-Understand TRS stereo jack
+* Understand TRS stereo jack
