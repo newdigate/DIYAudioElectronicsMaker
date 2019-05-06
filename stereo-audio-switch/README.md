@@ -1,4 +1,4 @@
-# build-your-own 
+build-your-own 
 # stereo audio input selector switch
 
 [DIYAudioElectronicsMaker on youtube](https://www.youtube.com/watch?v=WuBwabpJ2Ro&t=5s)
