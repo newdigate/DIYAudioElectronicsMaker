@@ -9,7 +9,7 @@ build a device to switch a headphone jack between two audio output sources
   * dpdt toggle switch
     * C&K Components [7201SYCBE](https://octopart.com/7201sycbe-c%26k+components-1058918?r=sp&s=h9bg1UtQQaGZ5SfalieGdQ)
   * 3.5mm stereo jack female
-    * [35RAPC4BHN2](https://octopart.com/35rapc4bhn2-switchcraft-36039?r=sp&s=-O8wGkm4QZSNxaEGYoEhYw)
+    * Switchcraft [35RAPC4BHN2](https://octopart.com/35rapc4bhn2-switchcraft-36039?r=sp&s=-O8wGkm4QZSNxaEGYoEhYw)
 * create a schematic using eagle cad
 * transfer the schematic to a printed circuit board design 
 * create an enclosure using fusion 360
