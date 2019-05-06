@@ -6,7 +6,11 @@ build-your-own
 build a device to switch a headphone jack between two audio output sources
 
 ## Objectives
-* select components using [octopart](https://octopart.com)
+* select components and download footprints, symbols and devices using [octopart](https://octopart.com)
+  * [toggle switches](https://octopart.com/search?category_ids=4810&start=0)
+    * Click on CAD Models and select "Symbol, Footprint, and 3D Model"
+    * Click on Throw Configuration and select DPDT 
+    * Select switch and download CAD Models library for Eagle CAD (or your own EDA tool)       
   * dpdt toggle switch
     * C&K Components [7201SYCBE](https://octopart.com/7201sycbe-c%26k+components-1058918?r=sp&s=h9bg1UtQQaGZ5SfalieGdQ)
   * 3.5mm stereo jack female
