@@ -1,7 +1,5 @@
-build-your-own 
-# stereo audio input selector switch
-
-[DIYAudioElectronicsMaker on youtube](https://www.youtube.com/watch?v=2lhKSJijf3E)
+# How-to build a stereo audio source selector with an enclosure
+* [DIYAudioElectronicsMaker on youtube](https://www.youtube.com/watch?v=w1A_pi3zSDo)
 
 build a device to switch a headphone jack between two audio output sources
 
